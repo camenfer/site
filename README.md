@@ -1,4 +1,7 @@
 # Getting Started with Create React App
+# Deploy automático via GitHub Pages
+
+Este site é publicado automaticamente em: https://camenfer.github.io/site/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
